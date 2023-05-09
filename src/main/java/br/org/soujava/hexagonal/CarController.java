@@ -1,4 +1,4 @@
-package br.org.soujava.mvc;
+package br.org.soujava.hexagonal;
 
 import java.util.List;
 
