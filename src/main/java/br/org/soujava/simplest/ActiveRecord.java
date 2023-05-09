@@ -1,4 +1,4 @@
-package br.org.soujava.unstructure;
+package br.org.soujava.simplest;
 
 import java.util.Collections;
 import java.util.List;

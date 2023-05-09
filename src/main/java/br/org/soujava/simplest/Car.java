@@ -1,4 +1,4 @@
-package br.org.soujava.unstructure;
+package br.org.soujava.simplest;
 
 import org.jmolecules.ddd.annotation.Entity;
 import org.jmolecules.ddd.annotation.Identity;

@@ -1,11 +1,8 @@
-package br.org.soujava.unstructure;
-
-import org.jmolecules.ddd.annotation.Service;
+package br.org.soujava.simplest;
 
 import java.util.List;
 
-@Service
-class CarService {
+class CarUI {
 
     public List<Car> cars() {
         return Car.findAll();
