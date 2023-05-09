@@ -2,3 +2,13 @@
 :toc: auto
 
 This repository shows the concept of Hexagonal model focusing on the trade-off instead of the hype.
+
+Architecture:
+
+* The simplest way
+* Active Record and UI (Two layers)
+* MVC (Three layers)
+* Exploring DDD
+* Hexagonal Model
+** Port and Adapters
+
