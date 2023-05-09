@@ -3,7 +3,7 @@
 
 This repository shows the concept of Hexagonal model focusing on the trade-off instead of the hype.
 
-Architecture:
+== Architecture:
 
 * The simplest way
 * Active Record and UI (Two layers)
@@ -11,4 +11,11 @@ Architecture:
 * Exploring DDD
 * Hexagonal Model
 ** Port and Adapters
+
+
+=== Hexagonal model
+
+* Domain Objects: domain rules
+* Use Cases: We know use cases as abstract descriptions of what users are doing with our software.
+* Input and Output Ports: Every communication to and from the outside happens through dedicated “ports”.
 
