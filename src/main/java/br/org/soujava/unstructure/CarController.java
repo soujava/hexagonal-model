@@ -2,7 +2,7 @@ package br.org.soujava.unstructure;
 
 import java.util.List;
 
-public class CarController {
+class CarController {
 
     public List<Car> cars() {
         return Car.findAll();

@@ -8,7 +8,7 @@ import java.util.Collections;
 import java.util.List;
 
 @Entity
-public class Car extends ActiveRecord{
+class Car extends ActiveRecord{
 
     @Identity
     public String plate;
